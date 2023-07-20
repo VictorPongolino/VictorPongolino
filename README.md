@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Victor Hugo Pongolino</h1>
 
-I'm Victor Hugo Pongolino, a back-end software engineer with expertise in Java, the Spring Framework, Python, Docker, Kubernetes and JS. 
+I'm a back-end software engineer with expertise in Java, the Spring Framework, Python, Docker, Kubernetes and JS. 
 I have hands-on experience with AWS, utilizing services like EC2, S3, RDS, and Lambda to build and deploy cloud-based applications.
 
 I have an advanced fluency in English and accept international jobs requests.
